@@ -1,0 +1,3 @@
+[submodule "nas"]
+	path = nas
+	url = git@github.com:demic-dev/my-nixos-config-nas.git
